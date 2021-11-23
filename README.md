@@ -1,0 +1,2 @@
+# Praticas
+ Meu primeiro repositorio
